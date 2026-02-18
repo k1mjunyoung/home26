@@ -1,7 +1,7 @@
 # Site settings
-title: Suyoung Lee
-description: Suyoung Lee / 이수영. Ph.D. student @KAIST WSP Lab.
-url: https://leeswimming.com
+title: Kim Junyoung
+description: Kim Junyoung / 김준영. Backend Developer.
+url: https://kimjunyoung.com
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 
 timezone:          Asia/Seoul
@@ -21,19 +21,16 @@ sass:
   sass_dir: _sass
 
 # User settings
-username: Suyoung Lee
-user_title: Security Researcher
+username: Kim Junyoung
+user_title: Backend Engineer
 user_description: >
-  I am a Ph.D. student <a href="https://wsp-lab.github.io/" target="_blank">
-  @KAIST WSP Lab</a>. My primary research interests lie in the area of finding,
-  analyzing, and patching software vulnerabilities. In particular, I am
-  interested in automating these steps by leveraging recent advances in machine
-  learning. Thus, the intersection of various fields including but not limited
-  to computer security, software engineering, and machine learning is of my
-  particular interest. I'm always happy to hear from you. For all inquiries, you
-  can reach me at: <a href="mailto:suyoung.lee@kaist.ac.kr">suyoung.lee@kaist.ac.kr</a>
-email: suyoung.lee@kaist.ac.kr
-github: leeswimming
-linkedin: suyoung-lee-669928152
-google_scholar: whklEtMAAAAJ
-# gplus_username:  lorem_ipsum
+  I am a backend engineer with a passion for building reliable and maintainable
+  server-side systems. I primarily work with Java and Spring to design and develop
+  RESTful APIs and scalable server architectures. I care deeply about clean code,
+  solid design principles, and writing software that lasts.
+  Feel free to reach out at: <a href="mailto:me@kimjunyoung.com">me@kimjunyoung.com</a>
+email: me@kimjunyoung.com
+github: k1mjunyoung
+linkedin: kimjunyoung
+# google_scholar: whklEtMAAAAJ
+# gplus_username: lorem_ipsum
